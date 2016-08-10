@@ -50,6 +50,8 @@ Prefer using `cat` rather than a text editor to view these files.
 
 *Note: 99.9% of the text in the project is gibberish, but buried in it are actual clues that, when followed, will enable one to the identity of the murderer.*
 
+Feel free to *use the hints**!
+
 ### Deliverable
 
 This is simply a fun exercise and does not need to be shared.
