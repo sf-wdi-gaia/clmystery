@@ -25,27 +25,18 @@ The Command Line Murders
 	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
+To get started on how to use the command line, open `command-line-guide.pdf`.
+
 There's been a murder in Terminal City, and TCPD needs your help.
 
 To figure out whodunit, you need access to a command line.
 
 Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
 
-Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
-
-One way you can do this is with the command:
+Open the Terminal, go to the location of the files, and start by reading the file 'instructions'.
 
 	cat instructions
 
-(`cat` is a command that will print the contents of the file called `instructions` for you to read.)
+>`cat` is a command that will print the contents of the file called `instructions` for you to read.
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
-
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
-
-### Credits
-
-By Noah Veltman  
-Projects: [noahveltman.com](http://noahveltman.com)  
-GitHub: [veltman](https://github.com/veltman)  
-Twitter: [@veltman](https://twitter.com/veltman)  
+Use `cat` rather than a text editor to view the files.
