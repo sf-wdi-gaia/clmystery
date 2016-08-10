@@ -24,19 +24,32 @@ The Command Line Murders
 	OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
 	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
+### Getting Started
 
-To get started on how to use the command line, open `command-line-guide.pdf`.
+Open the file, `command-line-guide.pdf`, for tips on how to use the command line to **search, filter and inspect** data.
+
+### Premise
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
 To figure out whodunit, you need access to a command line.
 
-Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
+Once ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
 
-Open the Terminal, go to the location of the files, and start by reading the file 'instructions'.
+```bash
+git clone <github url here>
+```
+
+Open the Terminal and start by reading the file `instructions`.
 
 	cat instructions
 
 >`cat` is a command that will print the contents of the file called `instructions` for you to read.
 
-Use `cat` rather than a text editor to view the files.
+Prefer using `cat` rather than a text editor to view these files.
+
+*Note: 99.9% of the text in the project is gibberish, but buried in it are actual clues that, when followed, will enable one to the identity of the murderer.*
+
+### Deliverable
+
+This is simply a fun exercise and does not need to be shared.
